@@ -3,3 +3,11 @@
 3. Single-mode/ban tuzel, sikertelen prim miatt a secondary
 4. Single-mode/ban tuzel, sikertelen secondary miatt a primary
 5. All-mode, mindkettot meghivjuk
+
+A JaCoCo alapjan:
+1. Nincs tesztelve a default konstruktor - eppen hogy nelkulozni akartam
+2. Nincs tesztelve a laser
+3. Nincs tesztelve a default ag - amugy is if-el kene
+4. Sec nem empty
+5. Van egy ellentmondas: tuzeljunk, ha az egyik ures?
+6. All eseten akkor is sikeres kene legyen, ha csak az egyiket lovom ki
