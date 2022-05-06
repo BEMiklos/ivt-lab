@@ -1,0 +1,5 @@
+1. Single-mode/ban tuzel, az elso a primary
+2. Single-mode/ban tuzel, a masodik a secondary
+3. Single-mode/ban tuzel, sikertelen prim miatt a secondary
+4. Single-mode/ban tuzel, sikertelen secondary miatt a primary
+5. All-mode, mindkettot meghivjuk
